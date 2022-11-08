@@ -94,14 +94,6 @@
 
 
 # 🧑‍💻 Project
-
-### 심리 상담 챗봇 앱 "우리"
-<img src="https://velog.velcdn.com/images/dldmswo1209/post/108b77de-fbdd-4400-834b-5706b85b5d8a/image.png" width="50%"/>
-
-- 소개 : 심리 상담 챗봇 기반 어플 (KBSC 본선 진출 작품)
-- 담당 : 안드로이드 앱 개발 및 파이썬 Flask 서버 개발
-- 기간 : 2022.08 ~ 2022.11.05(심사 진행 중)
-
 ### 카카오톡 클론 코딩
 <img src="https://velog.velcdn.com/images/dldmswo1209/post/534862f0-cf64-495f-abb7-2ddbe2bd2b8e/image.gif" width="40%"/>
 
